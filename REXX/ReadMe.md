@@ -21,7 +21,9 @@
  - Input date if of Number datatype
  - Input date day is in range from 1 to 365 (366 for Leap year)
 
-**REXX Code**: [JUL2GREG](https://github.com/Mahaboob-Khan/Mainframe/blob/main/REXX/JUL2GREG.rexx) <br />
+**REXX Code**: 
+  - [JUL2GREG - Explict Error Checks](https://github.com/Mahaboob-Khan/Mainframe/blob/main/REXX/JUL2GREG.rexx)
+  - [JUL2GRG2 - Error Handling using SIGNAL](https://github.com/Mahaboob-Khan/Mainframe/blob/main/REXX/JUL2GRG2.rexx)
 
 **Testing:**
 ![JUL2GREG](/REXX/files/Julian_to_Gregorian.PNG)
