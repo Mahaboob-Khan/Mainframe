@@ -13,6 +13,6 @@
  - Input date if of Number datatype
 
 **Testing:**
-![JUL2GREG](/REXX/files/JUL2GREG.PNG))<br />
+![JUL2GREG](/REXX/files/JUL2GREG.PNG)<br />
 REXX Code: [JUL2GREG](https://github.com/Mahaboob-Khan/Mainframe/blob/main/REXX/JUL2GREG.rexx)
 </details>
